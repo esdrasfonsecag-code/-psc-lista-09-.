@@ -1,0 +1,12 @@
+| Objeto         | Características (Atributos)                                | Ações (Métodos)                                        |
+| -------------- | ---------------------------------------------------------- | ------------------------------------------------------ |
+| **Pessoa**     | nome, idade, cpf, email                                    | andar(), comer(), dormir(), falar()                    |
+| **Carro**      | marca, modelo, cor, ano                                    | ligar(), acelerar(), frear(), buzinar()                |
+| **Animal**     | espécie, nome, idade, peso                                 | comer(), dormir(), correr(), emitirSom()               |
+| **Celular**    | marca, modelo, sistemaOperacional, cor                     | ligar(), tirarFoto(), enviarMensagem(), tocarMusica()  |
+| **Computador** | processador, memóriaRAM, armazenamento, sistemaOperacional | ligar(), processar(), salvarArquivo(), desligar()      |
+| **Livro**      | título, autor, gênero, númeroDePaginas                     | abrir(), ler(), fechar(), marcarPagina()               |
+| **Relógio**    | marca, tipo, cor, material                                 | marcarHora(), despertar(), cronometar(), ajustarHora() |
+| **Bicicleta**  | marca, cor, tipo, tamanhoRoda                              | pedalar(), frear(), virar(), buzinar()                 |
+| **Televisão**  | marca, tamanho, resolução, tipoDeTela                      | ligar(), trocarCanal(), ajustarVolume(), desligar()    |
+| **Geladeira**  | marca, capacidade, cor, consumoEnergia                     | ligar(), resfriar(), armazenarAlimento(), desligar()   |
