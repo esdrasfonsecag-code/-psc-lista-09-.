@@ -1,2 +1,2 @@
-# -psc-lista-09-.
+# -psc-lista-09-
 Entrega Lista IV
